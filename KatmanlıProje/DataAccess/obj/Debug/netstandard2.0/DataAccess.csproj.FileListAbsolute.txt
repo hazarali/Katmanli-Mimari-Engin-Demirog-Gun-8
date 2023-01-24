@@ -1,0 +1,12 @@
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
